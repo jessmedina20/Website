@@ -67,6 +67,7 @@ p { max-width: 70ch; }
 .button.primary:hover { background: var(--teal-dark); }
 .text-link { font-size: .82rem; font-weight: 600; }
 .portrait { position: relative; aspect-ratio: 4/5; background: var(--teal-wash); overflow: hidden; }
+.portrait > img { width: 100%; height: 100%; object-fit: cover; object-position: 58% 28%; }
 .portrait::before { content: ""; position: absolute; inset: 8%; border: 1px solid rgba(23,107,100,.34); }
 .portrait-figure { width: 100%; height: 100%; }
 .portrait-note { position: absolute; inset: auto 0 0 auto; padding: .55rem .8rem; background: var(--paper); color: var(--muted); font-size: .68rem; letter-spacing: .08em; text-transform: uppercase; }

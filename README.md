@@ -4,12 +4,11 @@ A dependency-free, multi-page academic portfolio designed for GitHub Pages.
 
 ## Customize
 
-1. Search for `Student Name`, `University Name`, `Professor Name`, and `student@university.edu` across the project.
-2. Replace the profile placeholder in `index.html` with an image in `assets/img/`.
-3. Replace all `href="#"` placeholders with real profile, paper, code, DOI, and dataset links.
-4. Replace `assets/files/cv.pdf` with the current CV PDF.
-5. Edit publication entries directly in `publications.html`; keep each item’s `data-type` attribute for filtering.
-6. Add a `CNAME` file containing the custom domain when it is known.
+1. Add verified CV details to `cv.html` and `teaching.html`.
+2. Add the genuine current CV as `assets/files/cv.pdf`, then restore the download link.
+3. Add only confirmed publications to `publications.html`, including accurate status, venue, year, DOI, and PDF links.
+4. Add Google Scholar, GitHub, or LinkedIn links when their URLs are available.
+5. Add a `CNAME` file containing the custom domain when it is known.
 
 ## Publish on GitHub Pages
 
