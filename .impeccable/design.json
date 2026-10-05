@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "direction": "editorial research dossier",
+  "mode": "experience",
+  "tokens": {
+    "paper": "#f4f1ea",
+    "ink": "#17201e",
+    "muted": "#606965",
+    "accent": "#176b64",
+    "accentDark": "#0e4d48",
+    "accentWash": "#d9e8e4",
+    "secondary": "#a44f32",
+    "line": "#cbc7bd",
+    "displayFont": "Newsreader",
+    "bodyFont": "DM Sans",
+    "contentWidth": "1180px"
+  },
+  "breakpoints": [800, 520],
+  "surfaces": ["home", "research", "publications", "teaching", "cv", "contact"]
+}

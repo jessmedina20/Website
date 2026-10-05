@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-labelledby="title desc">
+<title id="title">Concentric research trajectories</title><desc id="desc">Three elliptical paths intersect around a central research question.</desc>
+<rect width="800" height="500" fill="#fffdf8"/><g transform="translate(400 250)" fill="none" stroke="#176b64"><ellipse rx="300" ry="92" stroke-width="2"/><ellipse rx="235" ry="145" stroke-width="2" transform="rotate(38)"/><ellipse rx="235" ry="145" stroke-width="2" transform="rotate(-38)"/></g><circle cx="400" cy="250" r="34" fill="#a44f32"/><g fill="#176b64"><circle cx="105" cy="232" r="13"/><circle cx="593" cy="127" r="13"/><circle cx="612" cy="368" r="13"/></g><text x="400" y="255" fill="#fff" text-anchor="middle" font-family="Arial" font-size="14">question</text>
+</svg>
