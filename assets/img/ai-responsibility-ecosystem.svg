@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-labelledby="title desc">
+  <title id="title">Responsibility in AI-mediated relationships</title>
+  <desc id="desc">A tension map places a teen and AI companion between autonomy and safeguards, showing the surrounding roles of communities, caregivers, platforms, and policy.</desc>
+  <rect width="800" height="500" fill="#fffdf8"/>
+  <g font-family="DM Sans,Arial,sans-serif">
+    <text x="48" y="48" fill="#17201e" font-size="20" font-weight="600">WHO CARRIES RESPONSIBILITY?</text><text x="48" y="75" fill="#606965" font-size="14">AI-mediated relationships sit inside—not outside—a social and technical system.</text>
+    <g transform="translate(48 110)">
+      <text x="0" y="17" fill="#176b64" font-size="12" font-weight="600" letter-spacing="1.1">AUTONOMY</text><text x="624" y="17" fill="#176b64" font-size="12" font-weight="600" letter-spacing="1.1">SAFEGUARDS</text>
+      <line x1="82" y1="12" x2="606" y2="12" stroke="#17201e"/><path d="M82 12l10-7v14zM606 12l-10-7v14z" fill="#17201e"/>
+      <rect x="238" y="58" width="228" height="84" fill="#17201e"/><text x="352" y="91" fill="#fffdf8" text-anchor="middle" font-size="17" font-weight="600">TEEN + AI COMPANION</text><text x="352" y="117" fill="#d9e8e4" text-anchor="middle" font-size="12">intimacy · advice · reliance</text>
+      <g fill="none" stroke="#b8cec9" stroke-width="2"><path d="M352 142V184M352 184L96 238M352 184L270 238M352 184L444 238M352 184L618 238"/></g>
+      <g font-size="13" font-weight="600" text-anchor="middle"><text x="96" y="266" fill="#17201e">ONLINE</text><text x="96" y="284" fill="#17201e">COMMUNITIES</text><text x="270" y="266" fill="#17201e">PARENTS +</text><text x="270" y="284" fill="#17201e">CAREGIVERS</text><text x="444" y="266" fill="#17201e">PLATFORM</text><text x="444" y="284" fill="#17201e">DESIGN</text><text x="618" y="266" fill="#17201e">POLICY +</text><text x="618" y="284" fill="#17201e">GOVERNANCE</text></g>
+      <g fill="#176b64"><circle cx="96" cy="238" r="8"/><circle cx="270" cy="238" r="8"/></g><g fill="#a44f32"><circle cx="444" cy="238" r="8"/><circle cx="618" cy="238" r="8"/></g>
+      <line x1="0" y1="316" x2="704" y2="316" stroke="#cbc7bd"/><text x="0" y="349" fill="#606965" font-size="13">Support and accountability are distributed; no single actor carries the full burden.</text>
+    </g>
+  </g>
+</svg>

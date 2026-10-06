@@ -1,4 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-labelledby="title desc">
-<title id="title">Layered analytical model</title><desc id="desc">Three offset layers show a progression from observation to inference.</desc>
-<rect width="800" height="500" fill="#fffdf8"/><g fill="none" stroke-width="2"><path d="M92 110h450l130 80H222z" fill="#d9e8e4" stroke="#176b64"/><path d="M92 214h450l130 80H222z" fill="#efe8dc" stroke="#a44f32"/><path d="M92 318h450l130 80H222z" fill="#17201e" stroke="#17201e"/></g><g font-family="Arial" font-size="17"><text x="120" y="153" fill="#176b64">01 · observe</text><text x="120" y="257" fill="#a44f32">02 · interpret</text><text x="120" y="361" fill="#fffdf8">03 · intervene</text></g>
-</svg>

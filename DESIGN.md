@@ -12,12 +12,12 @@ An editorial research dossier: warm paper, precise rules, typographic hierarchy,
 - Secondary rust `#a44f32`
 - Display type: Newsreader, variable optical size, weights 400–600
 - Interface/body type: DM Sans, weights 400–600
-- Content width: `1180px`; body measure: maximum `70ch`
+- Content width: `1180px`; long-form reading width: `720px`; body measure: maximum `70ch`
 - Motion: restrained `cubic-bezier(.16, 1, .3, 1)` with reduced-motion fallback
 
 ## Composition
 
-Pages use generous vertical intervals and thin rules rather than card grids. Serif titles carry the visual identity; compact sans labels and metadata support scanning. Research figures are authored geometric diagrams on warm-white plates. Alternating project rows and asymmetric page grids vary pacing without changing the grammar.
+Pages use generous but bounded vertical intervals and thin rules rather than card grids. Serif titles carry the visual identity; compact sans labels and metadata support scanning. Research figures are authored, topic-specific diagrams on warm-white plates. Alternating project rows and asymmetric page grids vary pacing without changing the grammar.
 
 ## Components
 
@@ -30,4 +30,4 @@ Pages use generous vertical intervals and thin rules rather than card grids. Ser
 
 ## Responsive and accessibility
 
-At `800px`, major grids become single-column and navigation becomes a disclosure menu. At `520px`, dense metadata rows stack. The system includes skip navigation, visible focus rings, high-contrast selection, semantic headings, descriptive figure text, and `prefers-reduced-motion` support.
+At `800px`, major grids become single-column, the thesis statement precedes the portrait, and navigation becomes a disclosure menu. At `520px`, dense metadata rows stack. The system includes skip navigation, visible focus rings, high-contrast selection, semantic headings, descriptive figure text, Escape-to-close navigation, and `prefers-reduced-motion` support.
