@@ -1,6 +1,6 @@
 # Product
 
-This project is the dependency-free academic portfolio of Jessica Y. Medina, a PhD student at Drexel University. It helps prospective collaborators, hiring committees, students, and scholarly peers understand her research on epilepsy, digital health, accessible technology, online social support, and responsible social computing.
+This project is the dependency-free academic portfolio of Jessica Y. Medina, a PhD candidate at Drexel University. It helps prospective collaborators, hiring committees, students, and scholarly peers understand her research on epilepsy, digital health, accessible technology, online social support, and responsible social computing.
 
 ## Core surfaces
 
